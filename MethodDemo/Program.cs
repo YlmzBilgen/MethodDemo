@@ -6,7 +6,7 @@ namespace MethodDemo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Merhaba   ");
+            Console.WriteLine("Merhaba");
             Console.WriteLine("Hello World!");
         }
     }
